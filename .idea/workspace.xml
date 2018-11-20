@@ -2,9 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d10c712e-43b2-4e90-a9f7-eaa107d4a3d1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/bike.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/end_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/imooc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/logo-ant.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/start_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/assets/user_location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/carousel-img/carousel-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/carousel-img/carousel-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/carousel-img/carousel-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gallery/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/loading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/loading.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.831151d5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/css/main.831151d5.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.c905802d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/static/js/main.c905802d.js.map" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,21 +66,11 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
               <folding>
                 <element signature="n#!!block;n#dependencies#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/template/gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -45,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +108,7 @@
       <find>e</find>
       <find>es</find>
       <find>eslint</find>
+      <find>https://github.com</find>
       <find>eslintC</find>
     </findStrings>
   </component>
@@ -83,9 +118,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.eslintignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -145,6 +180,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,12 +317,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542684371172</updated>
-      <workItem from="1542684375343" duration="11337000" />
+      <workItem from="1542684375343" duration="12800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11337000" />
+    <option name="totallyTimeSpent" value="12800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -364,16 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="111" column="4" lean-forward="false" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!block;n#dependencies#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/template/gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -390,10 +443,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#dependencies#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
