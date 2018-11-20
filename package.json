@@ -1,10 +1,10 @@
 {
   "name": "manage-system",
   "version": "0.1.0",
-  "homepage": "https://github.com/fighting123/react_manage_system",
+  "homepage": "https://fighting123.github.io/react_manage_system",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "react-scripts": "0.7.0"
   },
   "dependencies": {
@@ -111,6 +111,11 @@
     ]
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "rules": {
+      "no-undef": "off",
+      "no-restricted-globals": "off",
+      "no-unused-vars": "off"
+    }
   }
 }
