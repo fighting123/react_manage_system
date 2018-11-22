@@ -187,7 +187,6 @@ module.exports = {
                       options: {
                         importLoaders: 1,
                         minimize: true,
-                        modules:true, //新添加的
                         sourceMap: shouldUseSourceMap,
                       },
                     },

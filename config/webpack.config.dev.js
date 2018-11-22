@@ -168,9 +168,7 @@ module.exports = {
               {
                 loader: require.resolve('css-loader'),
                 options: {
-                  importLoaders: 1,
-                  modules:true, //这是新添加的
-                  localIdentName: '[path][name]__[local]--[hash:base64:10]'  //这是新添加的
+                  importLoaders: 1
                 },
               },
               {
