@@ -22,7 +22,7 @@ class Header extends React.Component{
   getWeatherAPIData() {
     let city = '西安'
     axios.jsonp({
-      url: `http://api.map.baidu.com/telematics/v3/weather?location=${encodeURIComponent(city)}&output=json&ak=RZnjwNlhySfIkdNIljxdq8yY`
+      url: `https://api.map.baidu.com/telematics/v3/weather?location=${encodeURIComponent(city)}&output=json&ak=RZnjwNlhySfIkdNIljxdq8yY`
     }).then((res) => {
       if (res.status === 'success') {
         let data = res.results[0].weather_data[0]
