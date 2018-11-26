@@ -5,7 +5,7 @@ export default {
   formateDate(time) {
     if (!time) return;
     let date = new Date(time)
-    return date.getFullYear() + '-' + (date.getMonth()+1)+ '-' + date.getDate() + ' ' + date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds()
+    return date.getFullYear() + '-' + (date.getMonth()+1).toString().padStart(2, '0')+ '-' + date.getDate().toString().padStart(2, '0') + ' ' + date.getHours().toString().padStart(2, '0') + ':' + date.getMinutes().toString().padStart(2, '0') + ':' + date.getSeconds().toString().padStart(2, '0')
   },
   // 分页
   // 当点击下一页的时候出发callback

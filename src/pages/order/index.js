@@ -72,7 +72,8 @@ export default class Order extends React.Component{
       message.warning('请先选择一个订单！')
       return
     }
-    window.open(`/#/common/order/detail/${this.state.selectedItem.order_id}`, '_blank')
+    let urlPre = window.location.href.split('#')[0]  // 否则执行yarn deploy之后在github上访问页面跳转会出错
+    window.open(`${urlPre}/#/common/order/detail/${this.state.selectedItem.order_id}`, '_blank')
   }
   // 获取接口
   requestList = () => {

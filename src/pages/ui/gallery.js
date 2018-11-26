@@ -8,7 +8,7 @@ export default class Galley extends React.Component {
   openGallery = (item) => {
     this.setState({
       visible: true,
-      imgSrc: '/gallery/' + item
+      imgSrc: 'gallery/' + item
     })
   }
   state = {
@@ -25,7 +25,7 @@ export default class Galley extends React.Component {
     const imgList = imgs.map((subList) => subList.map((item) =>
       <Card
         hoverable
-        cover={<img src={'/gallery/' + item} alt=""/>}
+        cover={<img src={'gallery/' + item} alt=""/>}
         key={item}
         onClick={() => this.openGallery(item)}
         style={{marginBottom: 24}}>
